@@ -1,6 +1,3 @@
-# CodeAlpha_UnemploymentAnalysis
-Analyze unemployment trends in India using Python
-
 # CodeAlpha - Unemployment Analysis
 
 ## Project Objective
